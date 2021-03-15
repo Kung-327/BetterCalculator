@@ -11,7 +11,7 @@ class BetterCalculator:
     def Pow(x, y):
         return  # 庭維
 
-    @staticmethod
+    @staticmethod 
     def Gcd(x, y):
         while x != 0:
            x, y = y % x, x
